@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "709041220904",
+    "project_id": "haraka-therapy",
+    "storage_bucket": "haraka-therapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709041220904:android:f67d1719d5706e1245f41d",
+        "android_client_info": {
+          "package_name": "com.example.sus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709041220904-qlslhkbq942sus6u9tg3tr3r8j7jmip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Owavtig9rhJRxlkzmUzE1pW5F5bydZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709041220904-qlslhkbq942sus6u9tg3tr3r8j7jmip5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709041220904:android:89e7444576565d3d45f41d",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709041220904-qlslhkbq942sus6u9tg3tr3r8j7jmip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Owavtig9rhJRxlkzmUzE1pW5F5bydZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709041220904-qlslhkbq942sus6u9tg3tr3r8j7jmip5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
